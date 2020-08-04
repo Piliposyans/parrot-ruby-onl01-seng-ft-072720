@@ -1,4 +1,4 @@
-name "Squawk!"
+name = "Squawk!"
 
 def parrot
   puts name
