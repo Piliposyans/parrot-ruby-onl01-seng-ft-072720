@@ -1,6 +1,5 @@
-name = "parrot"
 
 
 
 
-def parrot
+
