@@ -1,7 +1,7 @@
 name = "Squawk!"
 
 def #parrot
-  puts name
+  #puts name
   "Squawk!"
   
 end
