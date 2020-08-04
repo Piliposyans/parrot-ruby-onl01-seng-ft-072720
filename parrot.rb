@@ -1,11 +1,11 @@
 name = "Squawk!"
 
-def parrot
+def #parrot
   puts name
   "Squawk!"
   
 end
 
-parrot
+#parrot
 
   
